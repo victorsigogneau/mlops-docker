@@ -2,6 +2,8 @@
 
 This repository contains code and resources for a course on MLOps (Machine Learning Operations), focusing on building a Dockerized application with a client-server architecture using Streamlit for machine learning visualization.
 
+![Uploading chrome-capture-2024-2-8.gif…]()
+
 ## Overview
 
 MLOps is the practice of combining machine learning (ML) and operations to streamline the process of deploying, maintaining, and iterating on ML models. This course aims to provide a practical guide to MLOps principles and techniques through the development of a Dockerized application.
