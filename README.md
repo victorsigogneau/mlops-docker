@@ -2,7 +2,8 @@
 
 This repository contains code and resources for a course on MLOps (Machine Learning Operations), focusing on building a Dockerized application with a client-server architecture using Streamlit for machine learning visualization.
 
-![Uploading chrome-capture-2024-2-8.gif…]()
+![chrome-capture-2024-2-8](https://github.com/victorsigogneau/mlops-docker/assets/114923062/47560246-cc45-4720-8d32-e4b94fa66aef)
+
 
 ## Overview
 
