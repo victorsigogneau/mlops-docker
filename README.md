@@ -32,7 +32,7 @@ To get started with the project, make sure you have Docker and Docker Compose in
 2. Build and run the Docker containers:
 
     ```bash
-    docker compose up --build
+    docker compose up 
     ```
 
 3. Access the Streamlit application in your browser:
